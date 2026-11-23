@@ -1,0 +1,4 @@
+@AlCampusAssistant_HostAddress = http://localhost:5113
+
+GET {{AlCampusAssistant_HostAddress}}/health
+Accept: application/json
